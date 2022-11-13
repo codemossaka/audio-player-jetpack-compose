@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1647680670839.xml" value="0.19510135135135134" />
+        <entry key="../../../../layout/compose-model-1647680740683.xml" value="0.16923076923076924" />
+        <entry key="../../../../layout/compose-model-1647681811017.xml" value="0.33" />
+        <entry key="../../../../layout/compose-model-1647687456696.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_music_note_24.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
